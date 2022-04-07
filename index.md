@@ -8,7 +8,7 @@ The follwing is a list
 
 [link to youtube](https://www.youtube.com/)
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw04fixIqmJTtKrl03oSwTU7&ust=1649439313243000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOjR-bW-gvcCFQAAAAAdAAAAABAs)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1024px-Image_created_with_a_mobile_phone.png)
 
 > This is CSE15L
 
