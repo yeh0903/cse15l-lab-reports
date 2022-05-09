@@ -32,3 +32,7 @@ The above images show I executing scp -r locally to copy my entire markdown-pars
 
 ![image](report3/ieng6_run.png)
 The image above shows that I logged into my ieng6 account, and I compiled and ran my tests for my repository.
+
+![image](report3/multiple_command_1.png)
+![image](report3/multiple_command_2.png)
+The images above show that I run scp, ssh, and tests on the repository in one line at the terminal.
