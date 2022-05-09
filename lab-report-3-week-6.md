@@ -22,3 +22,13 @@ The picture above shows that my public ssh key has been added to my github accou
 The picture above shows that I successfully commit and push changes to my github repository using ieng6 account.
 
 [This is the link to the commit I made using ieng6 account.](https://github.com/yeh0903/skill-demo/commits/main/report.java)
+
+---
+
+## ***3. Copy whole directories with scp -r***
+![image](report3/scp_r_1.png)
+![image](report3/scp_r.png)
+The above images show I executing scp -r locally to copy my entire markdown-parse directory to the ieng6 account.
+
+![image](report3/ieng6_run.png)
+The image above shows that I logged into my ieng6 account, and I compiled and ran my tests for my repository.
