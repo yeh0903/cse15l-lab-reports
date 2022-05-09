@@ -17,3 +17,8 @@ The above photo shows that my `public key: id_rsa_github.pub` and `private key: 
 
 ![image](report3/pub_key_github.png)
 The picture above shows that my public ssh key has been added to my github account.
+
+![image](report3/ieng6_git_push.png)
+The picture above shows that I successfully commit and push changes to my github repository using ieng6 account.
+
+[This is the link to the commit I made using ieng6 account.](https://github.com/yeh0903/skill-demo/commits/main/report.java)
