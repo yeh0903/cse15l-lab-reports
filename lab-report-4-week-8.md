@@ -102,4 +102,12 @@ The above shows the failure in her JUnit test, indicating produced output isn't 
 
 ### **Snippet One** ###
 
-For code snippet one, I 
+For code snippet one, I think 10> of codes can fix the problem. My program's problem in this case is that it didn't recogzie the ` in the file. So if I can add an if statement to recognize an pair of ' appears before the last bracket, and prevent the code from assuming it is a valid link.
+
+### **Snippet Two** ###
+
+For code snippet two, I think a 10> lines of code change can fix the problem. I can add a while loop to catch the last close parentheses without encoutering any spaces or /n. And then I can successfully catch everything in the link.
+
+### **Snippet Three** ###
+
+For code snippet three, I think a 10> lines of code change can fix the problem. To recognize the close parentheses in a link, we should add a loop and if statements allow up to only one /n and no other characters between the content of the link and ). So then we can succesfully recognize all links in the test file.
