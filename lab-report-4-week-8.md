@@ -42,3 +42,38 @@ The above shows the failure in my JUnit test, indicating produced output isn't s
 
 ## ***2. Markdown-parse Repository from Week 7***
 
+[This is the link to the markdown-parse repository we reviewed in week 7](https://github.com/Miyuki-L/markdown-parser)
+
+### **First Test** ###
+![image](report4/week7/test1_code.png)
+The above is the JUnit test for the first markdown snippet.
+
+![image](report4/week7/result_1.png)
+The above is the produced output from her program in the terminal.
+
+![image](report4/week7/failure_1.png)
+The above shows the failure in her JUnit test, indicating produced output isn't same as expected.
+
+---
+
+### **Second Test** ###
+![image](report4/week7/test2_code.png)
+The above is the JUnit test for the second markdown snippet.
+
+![image](report4/week7/result_2.png)
+The above is the produced output from her program in the terminal.
+
+![image](report4/week7/failure_2.png)
+The above shows the failure in her JUnit test, indicating produced output isn't same as expected.
+
+---
+
+### **Third Test** ###
+![image](report4/week7/test3_code.png)
+The above is the JUnit test for the third markdown snippet.
+
+![image](report4/week7/result_3.png)
+The above is the produced output from her program in the terminal.
+
+![image](report4/week7/failure_3.png)
+The above shows the failure in her JUnit test, indicating produced output isn't same as expected.
